@@ -8,10 +8,10 @@ sudo chown ${USER}:staff /usr/local/bin
 ```
 
 ### Step 2: Download & Install
+Download app-cleaner.sh and place it in /usr/local/bin
 
 ```shell
-curl -o /usr/local/bin/app-cleaner.sh 
-chmod +x /usr/local/bin/app-cleaner.sh
+sudo chmod +x /usr/local/bin/app-cleaner.sh
 ```
 
 ## Usage guide
